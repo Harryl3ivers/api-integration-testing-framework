@@ -1,3 +1,4 @@
+![API Tests](https://github.com/Harryl3ivers/api-integration-testing-framework/actions/workflows/tests.yml/badge.svg)
 # API Integration Testing Framework
 
 An automated API testing framework built with Python, Pytest and Requests.  
